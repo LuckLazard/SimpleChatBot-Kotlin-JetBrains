@@ -1,2 +1,2 @@
-# SimpleChattyBot-Kotlin-JetBrains
+# SimpleChatBot-Kotlin-JetBrains
  
